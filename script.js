@@ -7,3 +7,5 @@ for (var i = 1; i < 64; i++) {
     const squareColor = (i % 2 === 0) ? (div.style.backgroundColor = "red") : (div.style.backgroundColor = "black"); 
     document.body.append(div);
 }
+
+//some text for a test 
